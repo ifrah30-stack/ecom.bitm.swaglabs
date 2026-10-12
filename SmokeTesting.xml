@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Smoke Testing">
+
+    <test name="Smoke Tests">
+
+        <classes>
+            <class name="com.swaglabs.login.LoginTest"/>
+            <class name="com.swaglabs.product.ProductTest"/>
+            <class name="com.swaglabs.checkout.CheckoutTest"/>
+            <class name="com.swaglabs.logout.LogoutTest"/>
+        </classes>
+
+    </test>
+
+</suite>

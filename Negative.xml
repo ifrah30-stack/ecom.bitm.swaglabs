@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Negative Testing">
+
+    <test name="Negative Tests">
+
+        <classes>
+            <class name="com.swaglabs.login.LoginNegativeTest"/>
+            <class name="com.swaglabs.checkout.CheckoutNegativeTest"/>
+        </classes>
+
+    </test>
+
+</suite>

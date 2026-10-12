@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Batch Testing">
+
+    <suite-files>
+        <suite-file path="SmokeTesting.xml"/>
+        <suite-file path="FunctionalTesting.xml"/>
+        <suite-file path="IntegrationTesting.xml"/>
+        <suite-file path="SystemTesting.xml"/>
+    </suite-files>
+
+</suite>
